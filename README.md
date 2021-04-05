@@ -1,3 +1,4 @@
 # training eidited
 finish
-edsssited update { 
+edsssited update { edited
+add new line edited
